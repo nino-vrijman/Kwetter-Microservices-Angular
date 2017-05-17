@@ -1,0 +1,24 @@
+{
+  "name": "Kwetter-Microservices",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "restify": "^4.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nino-vrijman/Kwetter-Microservices.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nino-vrijman/Kwetter-Microservices/issues"
+  },
+  "homepage": "https://github.com/nino-vrijman/Kwetter-Microservices#readme"
+}
